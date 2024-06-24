@@ -1,0 +1,13 @@
+Scripts {
+    count = 1
+
+    while wait(1) {
+        count += 1
+    }
+}
+
+Hello!
+
+Welcome to the plain text version of my personal website!
+
+Time spent on this website: {count} seconds.

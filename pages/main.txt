@@ -1,0 +1,20 @@
+Hello!
+
+Welcome to the plain text version of my personal website!
+
+
+About Me
+
+I'm a self-taught full-stack developer.
+
+I've been programming since I was 10 years old, and my first language was Roblox Lua.
+
+Languages I currently know: JavaScript, TypeScript, Python, Lua, Rust
+Languages I'm learning (and planning to learn): Rust, Go, C++, Swift
+
+This website is fully open source and you can find the source code on my GitHub (top right)
+
+
+Contact me
+
+Hmu on Discord (top right corner) or email me at me@iunstable0.com
